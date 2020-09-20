@@ -1,2 +1,14 @@
-# learn_leetcode
-练习leetcode
+# Leetcode-C++
+
+## 1.  简介
+
+本仓库的代码为  https://leetcode.com/  算法大类中的 C++ 答案。帮助新手锻炼写代码的能力，提高代码书写速度，降低出错率。
+
+## 2. Leetcode 练习动机
+
+有的工程代码量过于庞大，不利于新手入门学习，可以先练习 Leetcode 算法题目开始，锻炼速度。为之后的计算机能力提供坚实保障。
+
+### 3. LICENSE
+
+GPL v3.0
+
